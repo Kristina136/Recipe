@@ -60,7 +60,7 @@ const finalSearch = (e) => {
   </div>
 
 
- <div>
+ <div className='container'>
   <h2>{myRecipes.length} Resipes with {wordSubmitted}</h2>
  </div>
   
